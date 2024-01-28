@@ -1,7 +1,7 @@
 {
   "name": "achat",
   "version": "0.1.7",
-  "description": "",
+  "description": "A Real-Time chat application made using Node.js, Express.js and Socket.io.",
   "main": "src/index.js",
   "scripts": {
     "start": "node src/index.js",
